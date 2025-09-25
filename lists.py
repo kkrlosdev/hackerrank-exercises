@@ -15,7 +15,7 @@ Iterate through each command in order and perform the corresponding operation on
 
 if __name__ == '__main__':
     N = int(input())
-    
+
     arr = []
     for _ in range(N):
         args = input().split()
